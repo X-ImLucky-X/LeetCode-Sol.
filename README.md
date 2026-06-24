@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0338-counting-bits) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0131-palindrome-partitioning) |
+| [0338-counting-bits](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0338-counting-bits) |
 ## Depth-First Search
 |  |
 | ------- |
