@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0191-number-of-1-bits) |
 ## String
 |  |
 | ------- |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0208-implement-trie-prefix-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
