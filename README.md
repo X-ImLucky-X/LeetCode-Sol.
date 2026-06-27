@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0338-counting-bits) |
 ## String
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0208-implement-trie-prefix-tree) |
+| [0268-missing-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0268-missing-number) |
 ## Design
 |  |
 | ------- |
@@ -76,4 +79,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0191-number-of-1-bits) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
