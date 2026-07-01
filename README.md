@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0072-edit-distance) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0070-climbing-stairs) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0010-regular-expression-matching) |
 | [0509-fibonacci-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0509-fibonacci-number) |
 ## Breadth-First Search
 |  |
