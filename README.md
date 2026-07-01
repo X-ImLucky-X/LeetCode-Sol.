@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0208-implement-trie-prefix-tree) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0152-maximum-product-subarray) |
