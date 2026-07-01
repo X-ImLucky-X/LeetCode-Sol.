@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0079-word-search) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0091-decode-ways) |
@@ -139,5 +141,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
