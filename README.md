@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0131-palindrome-partitioning) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0371-sum-of-two-integers) |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0647-palindromic-substrings) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
