@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0746-min-cost-climbing-stairs) |
 ## Backtracking
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0338-counting-bits) |
+| [0416-partition-equal-subset-sum](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0746-min-cost-climbing-stairs) |
 ## Depth-First Search
