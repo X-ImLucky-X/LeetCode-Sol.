@@ -18,6 +18,8 @@ private:
             if(!vis[i] && c[node][i] == 1){
                 dfs(i,c,vis);
             }
+        
         }
+        return;
     }
 };
