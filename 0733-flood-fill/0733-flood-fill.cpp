@@ -1,8 +1,8 @@
 class Solution {
+vector<vector<int>> dir = {{1,  0}, {-1, 0},  {0, 1}, {0, -1}};
 private:
     void dfs(int sr, int sc, vector<vector<int>>& image, int color, int initColor){
         image[sr][sc] = color;
-        vector<vector<int>> dir = {{1,  0}, {-1, 0},  {0, 1}, {0, -1}};
         for(auto x: dir){
             int dr = sr + x[0];
             int dc = sc + x[1];
