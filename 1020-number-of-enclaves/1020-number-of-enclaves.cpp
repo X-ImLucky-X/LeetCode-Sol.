@@ -28,6 +28,7 @@ private:
     void dfs(int r,int c,vector<vector<bool>>& vis,vector<vector<int>>& grid){
         if(grid[r][c]==1 && !vis[r][c]){
             grid[r][c]=0;
+            vis[r][c]=true;
         }
         for(auto x:dir){
             int nr=r+x[0];
