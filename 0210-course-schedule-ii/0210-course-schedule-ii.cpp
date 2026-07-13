@@ -1,47 +1,38 @@
 class Solution {
 public:
-    vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        unordered_map<int, vector<int>> prereq;
-        for (const auto& pair : prerequisites) {
-            prereq[pair[0]].push_back(pair[1]);
-        }
-
-        vector<int> output;
-        unordered_set<int> visit;
-        unordered_set<int> cycle;
-
-        for (int course = 0; course < numCourses; course++) {
-            if (!dfs(course, prereq, visit, cycle, output)) {
-                return {};
+    bool dfs(int u, vector<vector<int>>&adj, vector<int>&vis, vector<int>&path, stack<int>&s){
+        vis[u]=1;
+        path[u]=1;
+        for(auto i:adj[u]){
+            if(!vis[i]){ //if not visited go deeper
+                if(dfs(i,adj,vis,path,s))return 1;
             }
+            else if(path[i])return 1; //if visited, then check is that node in the current path, if yes return 0, cycle exist
         }
-
-        return output;
+        path[u]=0; //mark it unvisited while returing, to remove from current path
+        s.push(u);
+        return 0;
     }
 
-private:
-    bool dfs(int course, const unordered_map<int, vector<int>>& prereq,
-             unordered_set<int>& visit, unordered_set<int>& cycle,
-             vector<int>& output) {
-
-        if (cycle.count(course)) {
-            return false;
+    vector<int> findOrder(int n, vector<vector<int>>& pre) {
+        stack<int>s;
+        vector<int>vis(n,0),path(n,0); 
+        vector<vector<int>>adj(n);
+        for(auto i:pre){
+            int u=i[0];
+            int v=i[1];
+            adj[v].push_back(u);
         }
-        if (visit.count(course)) {
-            return true;
+        for(int i=0;i<n;i++){
+            if(!vis[i])if(dfs(i,adj,vis,path,s))return {}; //if return true, then cycle exist
         }
-
-        cycle.insert(course);
-        if (prereq.count(course)) {
-            for (int pre : prereq.at(course)) {
-                if (!dfs(pre, prereq, visit, cycle, output)) {
-                    return false;
-                }
-            }
+        vector<int>ans;
+        while(!s.empty()){
+            ans.push_back(s.top());
+            s.pop();
         }
-        cycle.erase(course);
-        visit.insert(course);
-        output.push_back(course);
-        return true;
+        
+        return ans;
+        
     }
 };
