@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0046-permutations) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0127-word-ladder](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0133-clone-graph) |
