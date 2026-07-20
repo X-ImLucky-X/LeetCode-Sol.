@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0208-implement-trie-prefix-tree) |
+| [0392-is-subsequence](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0518-coin-change-ii) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0005-longest-palindromic-substring) |
+| [0392-is-subsequence](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0647-palindromic-substrings) |
 ## Combinatorics
 |  |
