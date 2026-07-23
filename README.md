@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0139-word-break) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0126-word-ladder-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0208-implement-trie-prefix-tree) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0547-number-of-provinces) |
