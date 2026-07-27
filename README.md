@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1143-longest-common-subsequence) |
 ## Depth-First Search
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1137-n-th-tribonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0509-fibonacci-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
