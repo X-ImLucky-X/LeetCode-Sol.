@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1020-number-of-enclaves) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Backtracking
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0300-longest-increasing-subsequence) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Sorting
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0647-palindromic-substrings) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Combinatorics
 |  |
 | ------- |
@@ -256,4 +259,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1020-number-of-enclaves) |
+## Stack
+|  |
+| ------- |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 <!---LeetCode Topics End-->
