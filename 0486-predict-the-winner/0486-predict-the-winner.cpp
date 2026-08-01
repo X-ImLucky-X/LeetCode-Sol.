@@ -9,12 +9,12 @@ public:
         for(int i=0;i<n;i++){
             dp[i][i]=nums[i];
         }
-        for(int j=2;j<=n;j++){
-            for(int k=0;j+k-1<n;k++){
-                int x=j+k-1;
-                int left=nums[k]-dp[k+1][x];
-                int right=nums[x]-dp[k][x-1];
-                dp[k][x]=max(left,right);
+        for(int length=2;length<=n;length++){
+            for(int i=0;length+i-1<n;i++){
+                int j=length+i-1;
+                int left=nums[i]-dp[i+1][j];
+                int right=nums[j]-dp[i][j-1];
+                dp[i][j]=max(left,right);
             }
         }
         return dp[0][n-1]>=0;
