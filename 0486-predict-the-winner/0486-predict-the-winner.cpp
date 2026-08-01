@@ -1,30 +1,22 @@
 class Solution {
-private:
-    bool solve(int i,int j,long long a,long long b,vector<int>& nums,int flag){
-        if(i>j)return a>=b;
-        if(i==j){
-            if(flag==0){
-                a+=nums[i];
-            }else{
-                b+=nums[i];
-            }
-            return a>=b;
-        }
-        if(flag==0){
-            bool t1=solve(i+1,j,a+1LL*nums[i],b,nums,1);
-            bool t2=solve(i,j-1,a+1LL*nums[j],b,nums,1);
-            return t1 || t2;
-        }else{
-            bool t1=solve(i+1,j,a,b+1LL*nums[i],nums,0);
-            bool t2=solve(i,j-1,a,b+1LL*nums[j],nums,0);
-            return t1 && t2;
-        }
-        return true;
-
-    }
 public:
     bool predictTheWinner(vector<int>& nums) {
         int n=nums.size();
-        return solve(1,n-1,1LL*nums[0],0,nums,1) || solve(0,n-2,1LL*nums[n-1],0,nums,1);
+        //observation:even element in array ensure player 1 wins
+        if(n%2==0)return true;
+        //for odd number of elements : using dp
+        vector<vector<int>> dp(n,vector<int>(n,0));
+        for(int i=0;i<n;i++){
+            dp[i][i]=nums[i];
+        }
+        for(int j=2;j<=n;j++){
+            for(int k=0;j+k-1<n;k++){
+                int x=j+k-1;
+                int left=nums[k]-dp[k+1][x];
+                int right=nums[x]-dp[k][x-1];
+                dp[k][x]=max(left,right);
+            }
+        }
+        return dp[0][n-1]>=0;
     }
 };
