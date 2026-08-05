@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1020-number-of-enclaves) |
+| [3310-remove-methods-from-project](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1020-number-of-enclaves) |
+| [3310-remove-methods-from-project](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/3310-remove-methods-from-project) |
 ## Two Pointers
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0785-is-graph-bipartite) |
+| [3310-remove-methods-from-project](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
 | ------- |
