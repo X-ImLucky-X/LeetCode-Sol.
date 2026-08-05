@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0091-decode-ways) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0392-is-subsequence](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0647-palindromic-substrings) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -301,4 +303,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1406-stone-game-iii) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
