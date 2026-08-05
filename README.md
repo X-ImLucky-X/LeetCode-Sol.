@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0063-unique-paths-ii) |
+| [0066-plus-one](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0090-subsets-ii) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0371-sum-of-two-integers) |
