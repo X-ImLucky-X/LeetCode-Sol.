@@ -1,10 +1,13 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
-        int xorr=nums.size();
+        vector<int> mp(nums.size()+1,-1);
         for(int i=0;i<nums.size();i++){
-            xorr^=i^nums[i];
+            mp[nums[i]]=nums[i];
         }
-        return xorr;
+        for(int i=0;i<mp.size();i++){
+            if(mp[i]==-1)return i;
+        }
+        return 0;
     }
 };
