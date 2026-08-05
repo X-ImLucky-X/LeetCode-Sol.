@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0136-single-number) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0152-maximum-product-subarray) |
