@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0072-edit-distance) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0020-valid-parentheses) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
 |  |
@@ -319,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
