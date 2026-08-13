@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1406-stone-game-iii) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3731-find-missing-elements](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1143-longest-common-subsequence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
@@ -375,4 +377,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1510-stone-game-iv) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
