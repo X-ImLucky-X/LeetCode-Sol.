@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0088-merge-sorted-array) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/3731-find-missing-elements) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0392-is-subsequence) |
@@ -391,4 +394,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/2213-longest-substring-of-one-repeating-character) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
