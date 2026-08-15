@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0852-peak-index-in-a-mountain-array) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0898-bitwise-ors-of-subarrays) |
 | [0994-rotting-oranges](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1020-number-of-enclaves) |
 | [1140-stone-game-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1140-stone-game-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0371-sum-of-two-integers) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0898-bitwise-ors-of-subarrays) |
 ## String
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0746-min-cost-climbing-stairs) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0898-bitwise-ors-of-subarrays) |
 | [1137-n-th-tribonacci-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1143-longest-common-subsequence) |
