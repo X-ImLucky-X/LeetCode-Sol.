@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0746-min-cost-climbing-stairs) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0852-peak-index-in-a-mountain-array) |
 | [0994-rotting-oranges](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1020-number-of-enclaves) |
 | [1140-stone-game-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1140-stone-game-ii) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0300-longest-increasing-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0532-k-diff-pairs-in-an-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0852-peak-index-in-a-mountain-array) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Sorting
 |  |
@@ -437,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0204-count-primes) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
