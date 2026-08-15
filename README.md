@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0213-house-robber-ii) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0486-predict-the-winner) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0647-palindromic-substrings) |
