@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0417-pacific-atlantic-water-flow) |
 | [0486-predict-the-winner](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0518-coin-change-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0532-k-diff-pairs-in-an-array) |
 | [0542-01-matrix](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0733-flood-fill) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0268-missing-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0532-k-diff-pairs-in-an-array) |
 | [3731-find-missing-elements](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/3731-find-missing-elements) |
 ## Design
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0300-longest-increasing-subsequence) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0532-k-diff-pairs-in-an-array) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Sorting
 |  |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0268-missing-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0532-k-diff-pairs-in-an-array) |
 | [3731-find-missing-elements](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/3731-find-missing-elements) |
 ## Memoization
 |  |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0392-is-subsequence) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0532-k-diff-pairs-in-an-array) |
 | [0647-palindromic-substrings](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0647-palindromic-substrings) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Combinatorics
