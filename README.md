@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0088-merge-sorted-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0200-number-of-islands) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0128-longest-consecutive-sequence) |
