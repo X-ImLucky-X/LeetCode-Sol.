@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0518-coin-change-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0532-k-diff-pairs-in-an-array) |
 | [0542-01-matrix](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0542-01-matrix) |
+| [0658-find-k-closest-elements](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0746-min-cost-climbing-stairs) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0300-longest-increasing-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0532-k-diff-pairs-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0852-peak-index-in-a-mountain-array) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Sorting
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0532-k-diff-pairs-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0912-sort-an-array) |
 | [3731-find-missing-elements](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/3731-find-missing-elements) |
 ## Memoization
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0392-is-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0532-k-diff-pairs-in-an-array) |
 | [0647-palindromic-substrings](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0647-palindromic-substrings) |
+| [0658-find-k-closest-elements](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0658-find-k-closest-elements) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Combinatorics
 |  |
@@ -461,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -483,4 +488,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1492-the-kth-factor-of-n) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
