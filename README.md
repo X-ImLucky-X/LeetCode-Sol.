@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0198-house-robber) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0442-find-all-duplicates-in-an-array) |
@@ -491,10 +493,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0912-sort-an-array) |
 ## Counting Sort
 |  |
@@ -513,4 +517,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
