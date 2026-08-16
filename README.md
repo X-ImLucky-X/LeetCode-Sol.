@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0542-01-matrix) |
 | [0658-find-k-closest-elements](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0695-max-area-of-island) |
+| [0713-subarray-product-less-than-k](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0852-peak-index-in-a-mountain-array) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0300-longest-increasing-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0658-find-k-closest-elements) |
+| [0713-subarray-product-less-than-k](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0852-peak-index-in-a-mountain-array) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/2563-count-the-number-of-fair-pairs) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0713-subarray-product-less-than-k) |
 | [1140-stone-game-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1140-stone-game-ii) |
 ## Nim Game
 |  |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0658-find-k-closest-elements) |
+| [0713-subarray-product-less-than-k](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0713-subarray-product-less-than-k) |
 ## Simulation
 |  |
 | ------- |
