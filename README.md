@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1020-number-of-enclaves) |
 | [1140-stone-game-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1406-stone-game-iii) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3731-find-missing-elements](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/3731-find-missing-elements) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0532-k-diff-pairs-in-an-array) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/3731-find-missing-elements) |
 ## Design
 |  |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0912-sort-an-array) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 ## Prime Factorization
 |  |
 | ------- |
