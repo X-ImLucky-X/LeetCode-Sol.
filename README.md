@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0020-valid-parentheses) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0126-word-ladder-ii) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0066-plus-one) |
