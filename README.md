@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0079-word-search) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0300-longest-increasing-subsequence) |
