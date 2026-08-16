@@ -1,11 +1,23 @@
 class Solution {
 public:
-        static int distributeCoins(TreeNode* root, TreeNode* parent= NULL) {
-        if (!root) return 0;
-        int  moves=distributeCoins(root->left, root)+distributeCoins(root->right, root);
-        int x=root->val-1;// give x coins to parent node
-        if (parent) parent->val += x; // now parent's coins
-        moves+=abs(x);
+    int moves = 0;
+
+    int dfs(TreeNode* root) {
+        if (root == nullptr)
+            return 0;
+
+        int left = dfs(root->left);
+        int right = dfs(root->right);
+
+        int balance = root->val + left + right - 1;
+
+        moves += abs(balance);
+
+        return balance;
+    }
+
+    int distributeCoins(TreeNode* root) {
+        dfs(root);
         return moves;
     }
 };
