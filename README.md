@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0010-regular-expression-matching) |
+| [0024-swap-nodes-in-pairs](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0509-fibonacci-number) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0024-swap-nodes-in-pairs) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0142-linked-list-cycle-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0206-reverse-linked-list) |
