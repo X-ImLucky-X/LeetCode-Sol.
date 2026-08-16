@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0073-set-matrix-zeroes) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0179-largest-number) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
