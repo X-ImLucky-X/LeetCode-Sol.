@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0046-permutations) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0268-missing-number) |
