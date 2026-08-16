@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/2563-count-the-number-of-fair-pairs) |
 | [3731-find-missing-elements](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0852-peak-index-in-a-mountain-array) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/2563-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0912-sort-an-array) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/2563-count-the-number-of-fair-pairs) |
 | [3731-find-missing-elements](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/3731-find-missing-elements) |
 ## Memoization
 |  |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0658-find-k-closest-elements) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/2563-count-the-number-of-fair-pairs) |
 ## Combinatorics
 |  |
 | ------- |
