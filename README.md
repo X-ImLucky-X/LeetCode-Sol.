@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1020-number-of-enclaves) |
 | [1140-stone-game-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1406-stone-game-iii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1406-stone-game-iii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1510-stone-game-iv) |
 ## Depth-First Search
 |  |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0713-subarray-product-less-than-k) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Simulation
 |  |
 | ------- |
