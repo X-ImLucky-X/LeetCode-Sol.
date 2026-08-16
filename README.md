@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0486-predict-the-winner) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0516-longest-palindromic-subsequence) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0532-k-diff-pairs-in-an-array) |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0179-largest-number) |
+| [0435-non-overlapping-intervals](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0435-non-overlapping-intervals) |
 | [2029-stone-game-ix](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
