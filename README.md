@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0518-coin-change-ii) |
+| [0523-continuous-subarray-sum](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0532-k-diff-pairs-in-an-array) |
 | [0542-01-matrix](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0542-01-matrix) |
 | [0658-find-k-closest-elements](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0658-find-k-closest-elements) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0442-find-all-duplicates-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0532-k-diff-pairs-in-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/3731-find-missing-elements) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0523-continuous-subarray-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1406-stone-game-iii) |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0713-subarray-product-less-than-k) |
 | [1140-stone-game-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1140-stone-game-ii) |
 ## Nim Game
@@ -563,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0164-maximum-gap) |
+| [0523-continuous-subarray-sum](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0523-continuous-subarray-sum) |
 ## Tree
 |  |
 | ------- |
