@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2029-stone-game-ix](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/2563-count-the-number-of-fair-pairs) |
 | [3731-find-missing-elements](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/3731-find-missing-elements) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1406-stone-game-iii) |
 | [1492-the-kth-factor-of-n](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1492-the-kth-factor-of-n) |
 | [1510-stone-game-iv](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Search
 |  |
@@ -392,18 +394,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/2029-stone-game-ix) |
 ## String Matching
 |  |
 | ------- |
@@ -438,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0179-largest-number) |
+| [2029-stone-game-ix](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -454,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -523,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0912-sort-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [2029-stone-game-ix](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/2029-stone-game-ix) |
 ## Prime Factorization
 |  |
 | ------- |
