@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1143-longest-common-subsequence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1927-sum-game](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1406-stone-game-iii) |
 | [1492-the-kth-factor-of-n](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1492-the-kth-factor-of-n) |
 | [1510-stone-game-iv](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Search
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0435-non-overlapping-intervals) |
+| [1927-sum-game](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
