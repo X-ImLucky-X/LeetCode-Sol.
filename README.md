@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1872-stone-game-viii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/2563-count-the-number-of-fair-pairs) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1872-stone-game-viii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1406-stone-game-iii) |
 | [1492-the-kth-factor-of-n](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1492-the-kth-factor-of-n) |
 | [1510-stone-game-iv](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -422,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -429,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/2029-stone-game-ix) |
 ## String Matching
 |  |
@@ -481,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0713-subarray-product-less-than-k) |
 | [1140-stone-game-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
