@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/2563-count-the-number-of-fair-pairs) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0371-sum-of-two-integers) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0898-bitwise-ors-of-subarrays) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1020-number-of-enclaves) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
 | ------- |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0532-k-diff-pairs-in-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/3731-find-missing-elements) |
 ## Design
 |  |
@@ -352,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1020-number-of-enclaves) |
 | [3310-remove-methods-from-project](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
 |  |
 | ------- |
