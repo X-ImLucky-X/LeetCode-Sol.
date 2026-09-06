@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0133-clone-graph) |
+| [0144-binary-tree-preorder-traversal](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0210-course-schedule-ii) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0144-binary-tree-preorder-traversal) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0144-binary-tree-preorder-traversal) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0979-distribute-coins-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -605,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0144-binary-tree-preorder-traversal) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0979-distribute-coins-in-binary-tree) |
 ## Floyd's Cycle Finding Algorithm
 |  |
