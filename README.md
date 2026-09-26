@@ -532,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/0176-second-highest-salary) |
+| [1757-recyclable-and-low-fat-products](https://github.com/X-ImLucky-X/LeetCode-Sol./tree/master/1757-recyclable-and-low-fat-products) |
 ## Enumeration
 |  |
 | ------- |
